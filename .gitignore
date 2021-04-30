@@ -166,6 +166,8 @@ Thumbs.db
 *.zip
 
 # Diretory KDE
-.directory
+*.directory
+
+*.env
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
